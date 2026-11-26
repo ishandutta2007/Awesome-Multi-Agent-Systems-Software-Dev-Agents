@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents?style=flat-square&color=rose" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Software-Dev-Agents/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.style=flat-square" alt="License"/></a>
@@ -64,9 +64,9 @@ The following hosted platforms provide full-stack autonomous software engineerin
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the premier open-source multi-agent software engineering frameworks, terminal coding tools, and sandbox execution environments. **Sorted descending by GitHub Stars count.**
+Explore the premier open-source multi-agent software engineering frameworks, terminal coding tools, and sandbox execution environments. **Sorted descending by GitHub_Stars_Count.**
 
-| Repository & Link | Stars Badge | Key Capabilities & Architecture | Primary Tech |
+| Repository & Link | Stars_Badge | Key Capabilities & Architecture | Primary Tech |
 | :--- | :--- | :--- | :--- |
 | **[anomalyco/opencode](https://github.com/anomalyco/opencode)** | [![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | Open-source terminal-native autonomous coding agent designed for fast multi-session workflows, full LSP diagnostics, and local/cloud provider-agnostic model routing. | Go / TypeScript |
 | **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** | [![Stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers) | Flagship open-source autonomous AI software developer (formerly OpenDevin) featuring Docker isolation, multi-agent delegators, browser interaction, and state-of-the-art SWE-bench benchmark scores. | Python / Docker |
@@ -124,7 +124,7 @@ We actively welcome contributions from the community! To suggest a new tool, ben
 3. **Add entry** to `README.md` following the table schema:
    - Tool Name and Link
    - Accurate starting pricing and verified free tier limits (for SaaS)
-   - Verified GitHub Stars badge (for open-source)
+   - Verified GitHub_Stars_Badge (for open-source)
    - Concise 1–2 sentence capability summary
 4. **Commit & Push**: `git commit -m "Add [Tool Name]" && git push origin feature/add-new-agent`.
 5. **Open a Pull Request** with relevant context and documentation links.
